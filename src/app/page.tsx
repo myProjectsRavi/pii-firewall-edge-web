@@ -496,6 +496,9 @@ HttpResponse<String> response = client.send(request,
                 <span className="font-semibold">PII Firewall Edge</span>
               </div>
               <p className="text-slate-500 text-sm leading-relaxed">Enterprise-grade PII detection. Zero AI. Zero Logs. Trusted by developers worldwide.</p>
+              <a href="https://fazier.com/launches/pii-firewall-edge-web.vercel.app" target="_blank" className="inline-block mt-4">
+                <img src="https://fazier.com/api/v1//public/badges/launch_badges.svg?badge_type=launched&theme=dark" width={120} alt="Fazier Launched badge" />
+              </a>
             </div>
             
             <div>
